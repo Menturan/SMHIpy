@@ -1,0 +1,3 @@
+
+class SmhiConnectionException(BaseException):
+    pass
